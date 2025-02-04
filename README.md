@@ -16,7 +16,11 @@
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
   <img alt="Python" src="https://img.shields.io/badge/Python-%232C2F33.svg?logo=python&logoColor=white"/>  
-  <img alt="R" src="https://img.shields.io/badge/R-%232C2F33.svg?logo=r&logoColor=white"/>  
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%232C2F33.svg?logo=c-sharp&logoColor=white"/>
+  <img alt="React.js" src="https://img.shields.io/badge/React.js-%232C2F33.svg?logo=react&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232C2F33.svg?logo=javascript&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-%232C2F33.svg?logo=r&logoColor=white"/> 
+  <img alt="Java" src="https://img.shields.io/badge/Java-%232C2F33.svg?logo=openjdk&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%232C2F33.svg?logo=sqlite&logoColor=white"/>  
 </p>  
 
