@@ -12,9 +12,6 @@ Mi enfoque principal está en transformar datos en decisiones estratégicas a tr
 Con esta combinación de habilidades técnicas, analíticas y de comunicación, estoy comprometido con el desarrollo de iniciativas que marquen la diferencia en el ámbito empresarial.</h4>
 <br>
 
-## 🔥 Estadisticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IIPROXYS&theme=algolia"/></p>
-
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
   <img alt="Python" src="https://img.shields.io/badge/Python-%232C2F33.svg?logo=python&logoColor=white"/>  
