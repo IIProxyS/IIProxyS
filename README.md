@@ -47,13 +47,12 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
 ## 📬 Let's Connect  
 <p align="center">
   <a href="https://github.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/IIPROXYS"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
-  <a href="https://twitter.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://wa.me/1234567890"><img src="https://i.pinimg.com/474x/82/31/69/823169a9ebb95fb53b0acf6c3efd5928.jpg" alt="WhatsApp" width="48"/></a>
-  <a href="https://www.magneto365.com/IIPROXYS"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxHhP2nUbhNqOO4yIUWuDm6-aC2iBP0H3Qw&s" alt="Magneto 365" width="48"/></a>
-  <a href="https://www.computrabajo.com/IIPROXYS"><img src="https://img.utdstc.com/icon/6b7/6a7/6b76a7e04885dc581ea3df97c8391d712d527038e6c408ab52eb2be530255718:200" alt="Computrabajo" width="48"/></a>
+  <a href="www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:kee123371@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
+  <a href="https://x.com/KevinHolgun4"><img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/lkevin_holguin/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://wa.me/3138329143"><img src="https://i.pinimg.com/474x/82/31/69/823169a9ebb95fb53b0acf6c3efd5928.jpg" alt="WhatsApp" width="48"/></a>
+  <a href="https://web.magneto365.com/pl/kee123371-7289126"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxHhP2nUbhNqOO4yIUWuDm6-aC2iBP0H3Qw&s" alt="Magneto 365" width="48"/></a>
 </p>
 
 <hr/>
