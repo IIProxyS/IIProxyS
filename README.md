@@ -6,11 +6,11 @@
 <!-- Imagen de banner -->
 <img src="https://github.com/IIProxyS/Imagenes/blob/main/Banner%20Kevin%20Holguin.png" width="100%"/>
 
-<h4 align="center"><h4>Me apasiona el análisis de datos y su capacidad para impulsar la toma de decisiones estratégicas. Cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que optimizan procesos y mejoran los resultados organizacionales.</h4>  
+<h4 align="center"><h4>Me enfoco en el análisis de datos y su impacto en la toma de decisiones, convirtiéndolas en estrategias más precisas y efectivas. Cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que optimizan procesos y mejoran los resultados dentro de las organizaciones.</h4>  
 
-<h4>Formé parte del equipo de Analytics en la Dirección General del Banco de Bogotá, donde desarrollé proyectos enfocados en la creación y visualización de indicadores clave de rendimiento, productividad y satisfacción del talento.</h4>  
+<h4>Tuve la oportunidad de formar parte del equipo de Analytics en la Dirección General del Banco de Bogotá, donde trabajé en proyectos enfocados en crear y visualizar indicadores clave sobre rendimiento, productividad y satisfacción del talento.</h4>  
 
-<h4>Mi enfoque está en transformar datos en información valiosa mediante herramientas avanzadas como Python, Power BI y Excel. Gracias a mi formación en análisis de datos y Big Data, diseño soluciones innovadoras que generan impacto y valor en distintos niveles de las organizaciones.</h4>  
+<h4>Disfruto transformar datos en información clara y accionable, utilizando herramientas como Python, Power BI y Excel. Gracias a mi formación en análisis de datos y Big Data, me centro en diseñar soluciones innovadoras que aporten valor y generen un impacto real en todos los niveles de una organización.</h4>  
 
 
 ## 🖥️ Lenguajes de Programación  
