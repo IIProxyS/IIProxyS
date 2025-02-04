@@ -42,12 +42,12 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
 
 ## 📬 Contáctame
 <p align="center">
-  <a href="https://github.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:kee123371@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
-  <a href="https://x.com/KevinHolgun4"><img src="https://img.freepik.com/vector-premium/nuevo-vector-diseno-logotipo-twitter-x_1340851-70.jpg" alt="Twitter" width="48"/></a>
-  <a href="https://www.instagram.com/lkevin_holguin/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://github.com/IIPROXYS"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJIvS6SUwk7myZuF8KCubhaSObstIjQCAZg&s" alt="GitHub" width="48"/></a>
+  <a href="https://www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://t4.ftcdn.net/jpg/05/46/78/23/360_F_546782398_26V3pL84dJYL7ovgIIIjcDJ7IhPUDxSA.jpg" alt="LinkedIn" width="48"/></a>
+  <a href="mailto:kee123371@gmail.com"><img src="https://i.pinimg.com/736x/2d/e1/81/2de181c4d34ce4f37cfc3a41247467c3.jpg" alt="Email" width="48"/></a>
   <a href="https://wa.me/3138329143"><img src="https://i.pinimg.com/474x/82/31/69/823169a9ebb95fb53b0acf6c3efd5928.jpg" alt="WhatsApp" width="48"/></a>
+  <a href="https://www.instagram.com/lkevin_holguin/"><img src="https://img.freepik.com/vector-premium/circulo-negro-logo-instagram_197792-7412.jpg" alt="Instagram" width="48"/></a>
+  <a href="https://x.com/KevinHolgun4"><img src="https://img.freepik.com/vector-premium/nuevo-vector-diseno-logotipo-twitter-x_1340851-70.jpg" alt="Twitter" width="48"/></a>
   <a href="https://web.magneto365.com/pl/kee123371-7289126"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxHhP2nUbhNqOO4yIUWuDm6-aC2iBP0H3Qw&s" alt="Magneto 365" width="48"/></a>
 </p>
 
