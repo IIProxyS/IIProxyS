@@ -16,8 +16,7 @@
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
   <img alt="Python" src="https://img.shields.io/badge/Python-%232C2F33.svg?logo=python&logoColor=white"/>  
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%232C2F33.svg?logo=c-sharp&logoColor=white"/>
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-%232C2F33.svg?logo=react&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/%23-%232C2F33.svg?logo=c&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232C2F33.svg?logo=javascript&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-%232C2F33.svg?logo=r&logoColor=white"/> 
   <img alt="Java" src="https://img.shields.io/badge/Java-%232C2F33.svg?logo=openjdk&logoColor=white"/>
@@ -26,9 +25,9 @@
 
 ## 📊 Análisis de Datos y BI  
 <p align="left">  
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-%232C2F33.svg?logo=microsoft-power-bi&logoColor=white"/>  
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-%232C2F33.svg?logo=microsoft-excel&logoColor=white"/>  
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%232C2F33.svg?logo=tableau&logoColor=white"/>  
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-%232C2F33.svg?logo=google-slides&logoColor=white"/>  
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-%232C2F33.svg?logo=google-sheets&logoColor=white"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%232C2F33.svg?logo=plus-codes&logoColor=white"/>  
   <img alt="Looker" src="https://img.shields.io/badge/Looker-%232C2F33.svg?logo=looker&logoColor=white"/>  
 </p>  
 
@@ -36,10 +35,12 @@
 <p align="left">  
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%232C2F33.svg?logo=Jupyter&logoColor=white"/>  
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder-%232C2F33.svg?logo=spyderide&logoColor=white"/>  
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%232C2F33.svg?logo=anaconda&logoColor=white"/>  
-  <img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-%232C2F33.svg?logo=microsoft-power-automate&logoColor=white"/>  
-  <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=microsoft-power-apps&logoColor=white"/>  
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%232C2F33.svg?logo=github&logoColor=white"/>  
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%232C2F33.svg?logo=anaconda&logoColor=white"/>
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-%232C2F33.svg?logo=inductive-automation&logoColor=white"/>  
+  <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=apple-news&logoColor=white"/>  
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%232C2F33.svg?logo=github&logoColor=white"/> 
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%232C2F33.svg?logo=trello&logoColor=white"/>  
+  <img alt="SAP" src="https://img.shields.io/badge/SAP-%232C2F33.svg?logo=sap&logoColor=white"/>
 </p>  
 
 ## 👨‍💻 Portafolio
