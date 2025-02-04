@@ -19,7 +19,7 @@
   <img alt="C#" src="https://img.shields.io/badge/%23-%232C2F33.svg?logo=c&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%232C2F33.svg?logo=javascript&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/R-%232C2F33.svg?logo=r&logoColor=white"/> 
-  <img alt="Java" src="https://img.shields.io/badge/Java-%232C2F33.svg?logo=openjdk&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%232C2F33.svg?logo=jameson&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%232C2F33.svg?logo=sqlite&logoColor=white"/>  
 </p>  
 
