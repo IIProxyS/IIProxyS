@@ -4,13 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Analista+de+datos" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Me apasiona el análisis de datos, cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que impulsan la mejora continua de procesos y resultados organizacionales. Formé parte del equipo de Analytics en la Dirección General del Banco de Bogotá, donde desarrollé proyectos enfocados en la creación y visualización de indicadores clave de rendimiento, productividad y satisfacción del talento. <br><br>
+<h4 align="center"><h4>Me apasiona el análisis de datos y su capacidad para impulsar la toma de decisiones estratégicas. Cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que optimizan procesos y mejoran los resultados organizacionales.</h4>  
 
+<h4>Formé parte del equipo de Analytics en la Dirección General del Banco de Bogotá, donde desarrollé proyectos enfocados en la creación y visualización de indicadores clave de rendimiento, productividad y satisfacción del talento.</h4>  
 
-Mi enfoque principal está en transformar datos en decisiones estratégicas a través del uso de herramientas avanzadas como Python, Power BI y Excel. Además, mi formación en análisis de datos y Big Data me permite diseñar soluciones innovadoras que optimizan la gestión y generan valor en diferentes niveles de las organizaciones.
-
-Con esta combinación de habilidades técnicas, analíticas y de comunicación, estoy comprometido con el desarrollo de iniciativas que marquen la diferencia en el ámbito empresarial.</h4>
-<br>
+<h4>Mi enfoque está en transformar datos en información valiosa mediante herramientas avanzadas como Python, Power BI y Excel. Gracias a mi formación en análisis de datos y Big Data, diseño soluciones innovadoras que generan impacto y valor en distintos niveles de las organizaciones.</h4>  
 
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
@@ -36,6 +34,10 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
   <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=microsoft-power-apps&logoColor=white"/>  
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%232C2F33.svg?logo=github&logoColor=white"/>  
 </p>  
+
+## 👨‍💻 Portafolio
+### [Tablero de ingresos](https://github.com/IIProxyS/Tablero-de-ingresos)
+Se creó este tablero en Power BI para proporcionar una visión clara y estratégica de los ingresos de una empresa X, permitiendo analizar el desempeño por franquicia y subfranquicia. A través de visualizaciones interactivas y datos actualizados, facilita la toma de decisiones basada en información precisa y estructurada.
 
 ## 📬 Contáctame
 <p align="center">
