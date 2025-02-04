@@ -10,6 +10,7 @@
 
 <h4>Mi enfoque está en transformar datos en información valiosa mediante herramientas avanzadas como Python, Power BI y Excel. Gracias a mi formación en análisis de datos y Big Data, diseño soluciones innovadoras que generan impacto y valor en distintos niveles de las organizaciones.</h4>  
 
+
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
   <img alt="Python" src="https://img.shields.io/badge/Python-%232C2F33.svg?logo=python&logoColor=white"/>  
