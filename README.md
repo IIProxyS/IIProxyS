@@ -1,9 +1,13 @@
 
-<h1 align="center">Hola! Soy Kevin Holguín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola! Soy Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Analista+de+datos" alt="Typing SVG" /></a>
 </p>
 <hr/>
+
+<!-- Imagen de banner -->
+<img src="https://github.com/IIProxyS/Imagenes/blob/main/Banner%20Kevin%20Holguin.png" width="100%"/>
+
 <h4 align="center"><h4>Me apasiona el análisis de datos y su capacidad para impulsar la toma de decisiones estratégicas. Cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que optimizan procesos y mejoran los resultados organizacionales.</h4>  
 
 <h4>Formé parte del equipo de Analytics en la Dirección General del Banco de Bogotá, donde desarrollé proyectos enfocados en la creación y visualización de indicadores clave de rendimiento, productividad y satisfacción del talento.</h4>  
@@ -37,15 +41,28 @@
 </p>  
 
 ## 👨‍💻 Portafolio
-### [Tablero de ingresos](https://github.com/IIProxyS/Tablero-de-ingresos)
-Se creó este tablero en Power BI para proporcionar una visión clara y estratégica de los ingresos de una empresa X, permitiendo analizar el desempeño por franquicia y subfranquicia. A través de visualizaciones interactivas y datos actualizados, facilita la toma de decisiones basada en información precisa y estructurada.
+<table align="center" width="800px">
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/IIProxyS/Tablero-de-ingresos">Tablero de ingresos</a></h3>
+      <img src="https://github.com/IIProxyS/Imagenes/blob/main/Tablero%20ingresos.png" width="400px"/>
+      <h4>Se creó este tablero en Power BI para proporcionar una visión clara y estratégica de los ingresos de una empresa X, permitiendo analizar el desempeño por franquicia y subfranquicia.</h4>
+      <a href="https://github.com/IIProxyS/Tablero-de-ingresos">
+        <img alt="GitHub" src="https://img.shields.io/badge/Ver%20proyecto-%232C2F33.svg?logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/10062003/frontSA">Módulo web Super Administrador V2</a></h3>
+      <img src="https://github.com/IIProxyS/Imagenes/blob/main/SA2.png" width="400px"/>
+      <h4>Este nuevo módulo de superadministrador ha sido completamente rediseñado con REACT.JS para mejorar la experiencia del usuario y la gestión centralizada del sistema.</h4>
+      <a href="https://github.com/10062003/frontSA">
+        <img alt="GitHub" src="https://img.shields.io/badge/Ver%20proyecto-%232C2F33.svg?logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![](https://github.com/IIProxyS/Imagenes/blob/main/Tablero%20ingresos.png)
 
-### [Módulo web Super Administrador V2](https://github.com/10062003/frontSA)
-Este nuevo módulo de superadministrador ha sido completamente rediseñado con REACT.JS en su mayoría para mejorar la experiencia del usuario y la gestión centralizada del sistema. Con una interfaz renovada y más intuitiva, permite administrar usuarios, roles y configuraciones de manera eficiente. Su diseño optimizado no solo mejora la usabilidad, sino que también facilita el acceso a herramientas avanzadas, asegurando un control total y una toma de decisiones más ágil dentro de la plataforma.
-
-![](https://github.com/IIProxyS/Imagenes/blob/main/SA2.png)
 
 ## 📬 Contáctame
 <p align="center">
