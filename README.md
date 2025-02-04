@@ -47,7 +47,7 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
 ## 📬 Let's Connect  
 <p align="center">
   <a href="https://github.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-  <a href="www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:kee123371@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
   <a href="https://x.com/KevinHolgun4"><img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/lkevin_holguin/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
