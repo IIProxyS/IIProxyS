@@ -39,7 +39,7 @@
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%232C2F33.svg?logo=icloud&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google Cloud-%232C2F33.svg?logo=google-cloud&logoColor=white"/>
   <img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-%232C2F33.svg?logo=inductive-automation&logoColor=white"/>  
-  <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=apple-news&logoColor=white"/>  
+  <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=setapp&logoColor=white"/>  
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%232C2F33.svg?logo=github&logoColor=white"/> 
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%232C2F33.svg?logo=trello&logoColor=white"/>
   
