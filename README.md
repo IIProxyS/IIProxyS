@@ -43,7 +43,7 @@ Se creó este tablero en Power BI para proporcionar una visión clara y estraté
 ![](https://github.com/IIProxyS/Imagenes/blob/main/Tablero%20ingresos.png)
 
 ### [Módulo web Super Administrador V2](https://github.com/10062003/frontSA)
-Este nuevo módulo de superadministrador ha sido completamente rediseñado para mejorar la experiencia del usuario y la gestión centralizada del sistema. Con una interfaz renovada y más intuitiva, permite administrar usuarios, roles y configuraciones de manera eficiente. Su diseño optimizado no solo mejora la usabilidad, sino que también facilita el acceso a herramientas avanzadas, asegurando un control total y una toma de decisiones más ágil dentro de la plataforma.
+Este nuevo módulo de superadministrador ha sido completamente rediseñado con REACT.JS en su mayoría para mejorar la experiencia del usuario y la gestión centralizada del sistema. Con una interfaz renovada y más intuitiva, permite administrar usuarios, roles y configuraciones de manera eficiente. Su diseño optimizado no solo mejora la usabilidad, sino que también facilita el acceso a herramientas avanzadas, asegurando un control total y una toma de decisiones más ágil dentro de la plataforma.
 
 ![](https://github.com/IIProxyS/Imagenes/blob/main/SA2.png)
 
