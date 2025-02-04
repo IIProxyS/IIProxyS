@@ -11,13 +11,9 @@ Mi enfoque principal está en transformar datos en decisiones estratégicas a tr
 
 Con esta combinación de habilidades técnicas, analíticas y de comunicación, estoy comprometido con el desarrollo de iniciativas que marquen la diferencia en el ámbito empresarial.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-## 🔥 Streak Stats
+## 🔥 Estadisticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IIPROXYS&theme=algolia"/></p>
-
-
-## 🛠️ My Skills
 
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
@@ -44,12 +40,12 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"/>  
 </p>  
 
-## 📬 Let's Connect  
+## 📬 Contáctame
 <p align="center">
   <a href="https://github.com/IIPROXYS"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/kevin-jair-holguín-pinzón-536132192"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:kee123371@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
-  <a href="https://x.com/KevinHolgun4"><img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/></a>
+  <a href="https://x.com/KevinHolgun4"><img src="https://img.freepik.com/vector-premium/nuevo-vector-diseno-logotipo-twitter-x_1340851-70.jpg" alt="Twitter" width="48"/></a>
   <a href="https://www.instagram.com/lkevin_holguin/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
   <a href="https://wa.me/3138329143"><img src="https://i.pinimg.com/474x/82/31/69/823169a9ebb95fb53b0acf6c3efd5928.jpg" alt="WhatsApp" width="48"/></a>
   <a href="https://web.magneto365.com/pl/kee123371-7289126"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxHhP2nUbhNqOO4yIUWuDm6-aC2iBP0H3Qw&s" alt="Magneto 365" width="48"/></a>
