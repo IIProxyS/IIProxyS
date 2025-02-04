@@ -17,27 +17,27 @@ Con esta combinación de habilidades técnicas, analíticas y de comunicación, 
 
 ## 🖥️ Lenguajes de Programación  
 <p align="left">  
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"/>  
-  <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>  
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%230074C4.svg?logo=sqlite&logoColor=white"/>  
+  <img alt="Python" src="https://img.shields.io/badge/Python-%232C2F33.svg?logo=python&logoColor=white"/>  
+  <img alt="R" src="https://img.shields.io/badge/R-%232C2F33.svg?logo=r&logoColor=white"/>  
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%232C2F33.svg?logo=sqlite&logoColor=white"/>  
 </p>  
 
 ## 📊 Análisis de Datos y BI  
 <p align="left">  
-  <img alt="Power BI" src="https://img.shields.io/badge/Power BI-%23F2C811.svg?logo=powerbi&logoColor=white"/>  
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft Excel-%23217346.svg?logo=microsoftexcel&logoColor=white"/>  
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white"/>  
-  <img alt="Looker" src="https://img.shields.io/badge/Looker-%23FFA500.svg?logo=looker&logoColor=white"/>  
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-%232C2F33.svg?logo=microsoft-power-bi&logoColor=white"/>  
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-%232C2F33.svg?logo=microsoft-excel&logoColor=white"/>  
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%232C2F33.svg?logo=tableau&logoColor=white"/>  
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-%232C2F33.svg?logo=looker&logoColor=white"/>  
 </p>  
 
 ## ☁️ Herramientas y Entornos  
 <p align="left">  
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>  
-  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-%23FF0000.svg?logo=spyderide&logoColor=white"/>  
-  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"/>  
-  <img alt="Power Automate" src="https://img.shields.io/badge/Power Automate-%230078D4.svg?logo=powerautomate&logoColor=white"/>  
-  <img alt="Power Apps" src="https://img.shields.io/badge/Power Apps-%236B0080.svg?logo=powerapps&logoColor=white"/>  
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"/>  
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%232C2F33.svg?logo=Jupyter&logoColor=white"/>  
+  <img alt="Spyder" src="https://img.shields.io/badge/Spyder-%232C2F33.svg?logo=spyderide&logoColor=white"/>  
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%232C2F33.svg?logo=anaconda&logoColor=white"/>  
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-%232C2F33.svg?logo=microsoft-power-automate&logoColor=white"/>  
+  <img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-%232C2F33.svg?logo=microsoft-power-apps&logoColor=white"/>  
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%232C2F33.svg?logo=github&logoColor=white"/>  
 </p>  
 
 ## 📬 Contáctame
