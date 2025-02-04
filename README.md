@@ -40,6 +40,13 @@
 ### [Tablero de ingresos](https://github.com/IIProxyS/Tablero-de-ingresos)
 Se creó este tablero en Power BI para proporcionar una visión clara y estratégica de los ingresos de una empresa X, permitiendo analizar el desempeño por franquicia y subfranquicia. A través de visualizaciones interactivas y datos actualizados, facilita la toma de decisiones basada en información precisa y estructurada.
 
+![](https://github.com/IIProxyS/Imagenes/blob/main/Tablero%20ingresos.png)
+
+### [Módulo web Super Administrador V2](https://github.com/10062003/frontSA)
+Este nuevo módulo de superadministrador ha sido completamente rediseñado para mejorar la experiencia del usuario y la gestión centralizada del sistema. Con una interfaz renovada y más intuitiva, permite administrar usuarios, roles y configuraciones de manera eficiente. Su diseño optimizado no solo mejora la usabilidad, sino que también facilita el acceso a herramientas avanzadas, asegurando un control total y una toma de decisiones más ágil dentro de la plataforma.
+
+![](https://github.com/IIProxyS/Imagenes/blob/main/SA2.png)
+
 ## 📬 Contáctame
 <p align="center">
   <a href="https://github.com/IIPROXYS"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJIvS6SUwk7myZuF8KCubhaSObstIjQCAZg&s" alt="GitHub" width="48"/></a>
