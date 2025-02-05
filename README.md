@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Analista+de+datos" alt="Typing SVG" /></a>
 <hr/>
 <!-- Imagen de banner -->
-<img src="https://github.com/IIProxyS/Imagenes/blob/main/Banner%20Kevin%20Holguin.png" width="100%"/>
+<img src="https://github.com/IIProxyS/Imagenes/blob/main/Banner%20Git.png" width="100%"/>
 
 <h4 align="center"><h4>Me enfoco en el análisis de datos y su impacto en la toma de decisiones, convirtiéndolas en estrategias más precisas y efectivas. Cuento con experiencia en el desarrollo e implementación de soluciones basadas en datos que optimizan procesos y mejoran los resultados dentro de las organizaciones.</h4>  
 
